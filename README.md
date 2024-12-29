@@ -1,8 +1,7 @@
-pythonprac
 
 # Description
 
-pythonpract is Python library for Aya's exercises in using Python language.
+pythonpract is Python repository for Aya's exercises in using Python language.
 
 # Note
 
