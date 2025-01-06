@@ -1,0 +1,11 @@
+thistuple = ("apple", "banana", "cherry", "cherry")
+tuple1 = ("isla", "ira", "hans")
+tuple2 = (1, 5, 7, 9, 3)
+tuple3 = (True, False, False)
+
+print(thistuple)
+print(len(thistuple))
+print(tuple1)
+print(tuple2)
+print(tuple3)
+print(type(thistuple))
